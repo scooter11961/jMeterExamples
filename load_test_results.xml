@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="226" lt="0" ts="1346359935211" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused" tn="Thread Group 1-2" dt="text" by="1648" hn="US130975.local">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <java.net.URL>http://mq-vm24.office.aol.com:8800/icons/search.png.png?color=2&amp;text=blue_1</java.net.URL>
+</httpSample>
+<httpSample t="171" lt="0" ts="1346359935266" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused" tn="Thread Group 1-3" dt="text" by="1648" hn="US130975.local">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <java.net.URL>http://mq-vm24.office.aol.com:8800/icons/search.png.png?color=3&amp;text=blue_1</java.net.URL>
+</httpSample>
+<httpSample t="262" lt="0" ts="1346359935175" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused" tn="Thread Group 1-1" dt="text" by="1648" hn="US130975.local">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <java.net.URL>http://mq-vm24.office.aol.com:8800/icons/search.png.png?color=1&amp;text=blue_1</java.net.URL>
+</httpSample>
+<httpSample t="155" lt="0" ts="1346359935319" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused" tn="Thread Group 1-4" dt="text" by="1648" hn="US130975.local">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <java.net.URL>http://mq-vm24.office.aol.com:8800/icons/search.png.png?color=4&amp;text=blue_1</java.net.URL>
+</httpSample>
+<httpSample t="157" lt="0" ts="1346359935369" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused" tn="Thread Group 1-5" dt="text" by="1648" hn="US130975.local">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <java.net.URL>http://mq-vm24.office.aol.com:8800/icons/search.png.png?color=5&amp;text=blue_1</java.net.URL>
+</httpSample>
+<httpSample t="151" lt="0" ts="1346359935420" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused" tn="Thread Group 1-6" dt="text" by="1648" hn="US130975.local">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <java.net.URL>http://mq-vm24.office.aol.com:8800/icons/search.png.png?color=6&amp;text=blue_1</java.net.URL>
+</httpSample>
+<httpSample t="157" lt="0" ts="1346359935470" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused" tn="Thread Group 1-7" dt="text" by="1648" hn="US130975.local">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <java.net.URL>http://mq-vm24.office.aol.com:8800/icons/search.png.png?color=7&amp;text=blue_1</java.net.URL>
+</httpSample>
+<httpSample t="159" lt="0" ts="1346359935520" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused" tn="Thread Group 1-8" dt="text" by="1648" hn="US130975.local">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <java.net.URL>http://mq-vm24.office.aol.com:8800/icons/search.png.png?color=8&amp;text=blue_1</java.net.URL>
+</httpSample>
+<httpSample t="152" lt="0" ts="1346359935570" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused" tn="Thread Group 1-9" dt="text" by="1648" hn="US130975.local">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <java.net.URL>http://mq-vm24.office.aol.com:8800/icons/search.png.png?color=9&amp;text=blue_1</java.net.URL>
+</httpSample>
+<httpSample t="152" lt="0" ts="1346359935621" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused" tn="Thread Group 1-10" dt="text" by="1648" hn="US130975.local">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <java.net.URL>http://mq-vm24.office.aol.com:8800/icons/search.png.png?color=10&amp;text=blue_1</java.net.URL>
+</httpSample>
+<httpSample t="152" lt="0" ts="1346359935671" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused" tn="Thread Group 1-11" dt="text" by="1648" hn="US130975.local">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <java.net.URL>http://mq-vm24.office.aol.com:8800/icons/search.png.png?color=11&amp;text=blue_1</java.net.URL>
+</httpSample>
+<httpSample t="151" lt="0" ts="1346359935721" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused" tn="Thread Group 1-12" dt="text" by="1648" hn="US130975.local">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <java.net.URL>http://mq-vm24.office.aol.com:8800/icons/search.png.png?color=12&amp;text=blue_1</java.net.URL>
+</httpSample>
+<httpSample t="152" lt="0" ts="1346359935772" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused" tn="Thread Group 1-13" dt="text" by="1648" hn="US130975.local">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <java.net.URL>http://mq-vm24.office.aol.com:8800/icons/search.png.png?color=13&amp;text=blue_1</java.net.URL>
+</httpSample>
+<httpSample t="154" lt="0" ts="1346359935822" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused" tn="Thread Group 1-14" dt="text" by="1648" hn="US130975.local">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <java.net.URL>http://mq-vm24.office.aol.com:8800/icons/search.png.png?color=14&amp;text=blue_1</java.net.URL>
+</httpSample>
+<httpSample t="152" lt="0" ts="1346359935872" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused" tn="Thread Group 1-15" dt="text" by="1648" hn="US130975.local">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <java.net.URL>http://mq-vm24.office.aol.com:8800/icons/search.png.png?color=15&amp;text=blue_1</java.net.URL>
+</httpSample>
+<httpSample t="154" lt="0" ts="1346359935924" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused" tn="Thread Group 1-16" dt="text" by="1648" hn="US130975.local">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <java.net.URL>http://mq-vm24.office.aol.com:8800/icons/search.png.png?color=16&amp;text=blue_1</java.net.URL>
+</httpSample>
+<httpSample t="153" lt="0" ts="1346359935974" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused" tn="Thread Group 1-17" dt="text" by="1648" hn="US130975.local">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <java.net.URL>http://mq-vm24.office.aol.com:8800/icons/search.png.png?color=17&amp;text=blue_1</java.net.URL>
+</httpSample>
+<httpSample t="152" lt="0" ts="1346359936024" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused" tn="Thread Group 1-18" dt="text" by="1648" hn="US130975.local">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <java.net.URL>http://mq-vm24.office.aol.com:8800/icons/search.png.png?color=18&amp;text=blue_1</java.net.URL>
+</httpSample>
+<httpSample t="155" lt="0" ts="1346359936075" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused" tn="Thread Group 1-19" dt="text" by="1648" hn="US130975.local">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <java.net.URL>http://mq-vm24.office.aol.com:8800/icons/search.png.png?color=19&amp;text=blue_1</java.net.URL>
+</httpSample>
+<httpSample t="153" lt="0" ts="1346359936126" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused" tn="Thread Group 1-20" dt="text" by="1648" hn="US130975.local">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <java.net.URL>http://mq-vm24.office.aol.com:8800/icons/search.png.png?color=20&amp;text=blue_1</java.net.URL>
+</httpSample>
+
+</testResults>
